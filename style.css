@@ -1,0 +1,19 @@
+.container {
+    display:flex;
+    justify-content:space-around;
+}
+
+li {
+    list-style-type: none;
+    float: right;
+} 
+
+a {
+    padding: 10px;
+    color:green;
+}
+
+
+
+
+
