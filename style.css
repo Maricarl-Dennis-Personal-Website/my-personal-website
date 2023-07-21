@@ -1,6 +1,8 @@
 .name-title {
     font-family: Helvetica;
-    letter-spacing: 10px;
+    font-weight: bolder;
+    font-size: xx-large;
+    letter-spacing: 5px;
 }
 
 .container1 {
@@ -20,12 +22,14 @@ a {
 
 
 body {
-    padding:60px;
+    padding:80px;
 }
 
 
 .quote {
-    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    word-spacing: 5px;
 }
 p {
     font-family:Courier;
