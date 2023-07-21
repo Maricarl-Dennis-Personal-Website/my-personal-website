@@ -1,6 +1,12 @@
-.container {
+.name-title {
+    font-family: Helvetica;
+    letter-spacing: 10px;
+}
+
+.container1 {
     display:flex;
-    justify-content:space-around;
+    justify-content:center;
+    background-color: beige;
 }
 
 li {
@@ -13,15 +19,24 @@ a {
     color:green;
 }
 
+
 body {
-    padding:55px;
+    padding:60px;
 }
 
-p {
-    font-family: monospace;
-    font-size:medium;
-    font-weight:normal;
+.index-body {
+    background-repeat: no-repeat;
+    background-image: url("./images/IMG_6257\ Large.jpeg")
 }
+
+.quote {
+    background-color:beige;
+}
+p {
+    font-family:Courier;
+}
+
+
 
 .container {
     display:flex;
