@@ -4,7 +4,7 @@ My Personal Website
 Personalized website with three main pages: Home, About and Portfolio. 
 
 Technologies used:
-	1. Html
+    1. Html
     2. Javascript
     3. CSS
 
