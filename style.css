@@ -6,7 +6,6 @@
 .container1 {
     display:flex;
     justify-content:center;
-    background-color: beige;
 }
 
 li {
@@ -24,13 +23,9 @@ body {
     padding:60px;
 }
 
-.index-body {
-    background-repeat: no-repeat;
-    background-image: url("./images/IMG_6257\ Large.jpeg")
-}
 
 .quote {
-    background-color:beige;
+    
 }
 p {
     font-family:Courier;
