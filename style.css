@@ -7,7 +7,7 @@
 
 .container1 {
     display:flex;
-    justify-content:center;
+    justify-content: space-between;
 }
 
 li {
@@ -22,13 +22,16 @@ a {
 
 
 body {
-    padding:80px;
+    height:100%
 }
 
-.index-body {
+#index-background {
 
     background-repeat: no-repeat;
-    background-image: url("./images/spark.jpeg")
+    background-image: url("./images/spark.jpeg");
+    background-size: cover;
+    padding: 80px;
+    height: 100%;
 }
 
 .quote {
@@ -38,10 +41,12 @@ p {
     font-family:Courier;
 }
 
-
-
 .container {
     display:flex;
-    align-items: center;
     justify-content: center;
+    
+}
+
+.image {
+    display:flex;
 }
