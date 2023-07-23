@@ -1,12 +1,12 @@
 .name-title {
     font-family: Helvetica;
     letter-spacing: 10px;
+    color:white;
 }
 
 .container1 {
     display:flex;
     justify-content:center;
-    background-color: beige;
 }
 
 li {
@@ -25,12 +25,13 @@ body {
 }
 
 .index-body {
+
     background-repeat: no-repeat;
-    background-image: url("./images/IMG_6257\ Large.jpeg")
+    background-image: url("./images/spark.jpeg")
 }
 
 .quote {
-    background-color:beige;
+    color: white;
 }
 p {
     font-family:Courier;
