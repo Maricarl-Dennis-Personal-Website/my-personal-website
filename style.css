@@ -25,11 +25,14 @@ body {
     padding:80px;
 }
 
+.index-body {
+
+    background-repeat: no-repeat;
+    background-image: url("./images/spark.jpeg")
+}
 
 .quote {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: center;
-    word-spacing: 5px;
+    color: white;
 }
 p {
     font-family:Courier;
