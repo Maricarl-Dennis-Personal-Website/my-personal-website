@@ -32,6 +32,9 @@ body {
     height: 100vh;
 }
 
+#index-body {
+    background-color: black;
+}
 #index-background {
     background-image: url("./images/spark.jpeg");
     background-size: cover;
@@ -40,7 +43,9 @@ body {
 
 .quote {
     color: white;
-    padding-left:60px;
+    padding-left:80px;
+    font-size:large;
+    font-variant-caps:unicase;
 }
 
 #my-interests {
