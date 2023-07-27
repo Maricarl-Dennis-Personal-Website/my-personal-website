@@ -26,10 +26,19 @@ a {
 
 #about-body {
     margin: 0px 80px;
+    background-color: black;
 }
+
+h3 {
+    margin: auto;
+    font: bolder 25px Times;
+    color: white;
+}
+
 
 body {
     height: 100vh;
+    background-color: black;
 }
 
 #index-body {
@@ -55,11 +64,14 @@ body {
 p {
     font-family:Courier;
     padding: 30px;
+    font-weight:500;
+    color:white;
 }
 
-.container {
+.about-container {
     display:flex;
     justify-content: center;
+    padding: 45px;
 
 }
 
