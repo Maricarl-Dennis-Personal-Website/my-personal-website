@@ -80,3 +80,17 @@ p {
     background-image: url(./images/spark\ 3.jpg);
     background-repeat: no-repeat;
 }
+
+#contact_form_display {
+    display: grid;
+    justify-items: center;
+}
+
+label {
+    color: white;
+    font: 15px Courier;
+}
+
+.textbox:hover {
+   background-color: rgb(5, 116, 141);
+}
