@@ -24,10 +24,6 @@ a {
     color:green;
 }
 
-#about-body {
-    margin: 0px 80px;
-    background-color: black;
-}
 
 h3 {
     margin: auto;
@@ -36,16 +32,17 @@ h3 {
 }
 
 
-body {
-    height: 100vh;
-    background-color: black;
+#about-portfolio-body {
+    background-image: url(./images/spark\ 3.jpg);
+    padding: 80px;
 }
 
 #index-body {
-    background-color: black;
+    background-color:beige;
+    padding: 20px;
 }
 #index-background {
-    background-image: url("./images/spark.jpeg");
+    background-image: url("./images/spark\ 3.jpg");
     background-size: cover;
     height: 100vh;
 }
@@ -77,4 +74,9 @@ p {
 
 .image {
     display:flex;
+}
+
+#contact-body {
+    background-image: url(./images/spark\ 3.jpg);
+    background-repeat: no-repeat;
 }
