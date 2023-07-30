@@ -85,9 +85,31 @@ p {
 
 label {
     color: white;
-    font: 15px Courier;
+    font: 18px Courier;
 }
 
 .textbox:hover {
    background-color: rgb(5, 116, 141);
+   border:2px solid lightblue;
+}
+
+input {
+    width: 40rem;
+    height: 10%;
+}
+
+input[type="submit"] {
+    font: 20px Courier;
+    color: white;
+    background-color: rgb(26, 67, 97);
+    width:22%;
+    height:12%;
+    position: relative;
+    left: 40%;
+
+}
+
+input[type="submit"]:hover {
+   background-color: rgb(28, 78, 92);
+   border: 3px solid lightblue;
 }
