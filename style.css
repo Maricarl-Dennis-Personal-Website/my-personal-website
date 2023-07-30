@@ -34,7 +34,7 @@ h3 {
 
 #about-portfolio-body {
     background-image: url(./images/spark\ 3.jpg);
-    padding: 45px;
+    padding: 0 45px;
 }
 
 #index-body {
@@ -68,9 +68,8 @@ p {
 
 }
 
-#contact-body {
-    background-image: url(./images/spark\ 3.jpg);
-    background-repeat: no-repeat;
+.portfolio-container {
+    padding: 45px;
 }
 
 #contact_form {
