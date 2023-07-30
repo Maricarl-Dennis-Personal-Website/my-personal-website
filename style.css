@@ -10,7 +10,7 @@
 .container1 {
     display:flex;
     justify-content: space-between;
-    padding-top: 80px;
+    padding-top: 65px;
     padding-right: 80px;
 }
 
@@ -26,7 +26,6 @@ a {
 
 
 h3 {
-    margin: auto;
     font: bolder 25px Times;
     color: white;
 }
@@ -34,7 +33,7 @@ h3 {
 
 #about-portfolio-body {
     background-image: url(./images/spark\ 3.jpg);
-    padding: 80px;
+    padding: 45px;
 }
 
 #index-body {
@@ -53,21 +52,19 @@ h3 {
 }
 
 p {
-    font-family:Courier;
+    font: 20px monospace;
     padding: 30px;
     font-weight:500;
     color:white;
 }
 
 .about-container {
-    display:flex;
-    justify-content: center;
     padding: 45px;
 
 }
-
 .image {
     display:flex;
+
 }
 
 #contact-body {
