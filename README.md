@@ -11,8 +11,7 @@ Technologies used:
 How to open this project:
 
 1. On Github.com, go to the main page of the repository
-2. Click <code> 
-3. Clone the repository or download the code 
+2. Clone the repository or download the code 
 
 
 How to make contributions: 
